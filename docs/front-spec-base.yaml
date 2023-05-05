@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: JVM Front API
   description: |
-     API reference for Medusa's Storefront endpoints. All endpoints are prefix with `/api/v1/front`
+     API reference for JVM's Front endpoints. All endpoints are prefix with `/api/v1/front`
 paths: {}
 servers:
 - url: http://localhost:9000/api/v1/front

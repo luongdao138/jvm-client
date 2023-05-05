@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: JVM Admin API
+  description: |
+     API reference for JVM's Admin endpoints. All endpoints are prefix with `/api/v1/admin`
+paths: {}
+servers:
+- url: http://localhost:9000/api/v1/admin
+  description: Development server
+
