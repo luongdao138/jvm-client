@@ -1,0 +1,15 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "JVM Front API",
+    "description": "API reference for Medusa's Storefront endpoints. All endpoints are prefix with `/api/v1/front`\n"
+  },
+  "paths": {},
+  "servers": [
+    {
+      "url": "http://localhost:9000/api/v1/front",
+      "description": "Development server"
+    }
+  ]
+}
