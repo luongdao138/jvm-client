@@ -9,3 +9,5 @@ export type { OpenAPIConfig } from './core/OpenAPI';
 export type { user } from './models/user';
 
 export { $user } from './schemas/$user';
+
+export { UserService } from './services/UserService';
